@@ -1,1 +1,2 @@
+Merge branch 'feature-greeting'
 "This is a new feature"
